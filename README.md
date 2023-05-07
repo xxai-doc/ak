@@ -4,7 +4,7 @@
 
 Wɛbsaet no anim koodu no yɛ open source, yɛma wo akwaaba sɛ ɛbɛboa ma nkyerɛase no ayɛ papa
 
-* [anim-awieɛ koodu](https://github.com/xxai-art/web)
+* [Frontend Mmara no](https://github.com/xxai-art/web)
 * [Kasa packs ma site no nyinaa](https://github.com/xxai-art/web/tree/main/i18n)
 * [Kasa packs a wɔde yɛ login modules](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Wɛbsaet Kasa Ahorow Nkyerɛwee](https://github.com/xxai-doc)
