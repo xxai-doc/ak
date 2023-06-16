@@ -1,10 +1,10 @@
 <p align="center"><a href="https://xxai.art"><img src="https://cdn.jsdelivr.net/gh/xxai-art/doc/logo.svg"/></a><br/><a href="https://xxai.art"><img src="https://cdn.jsdelivr.net/gh/xxai-art/doc/xxai.svg"/></a></p><p align="center"><a href="https://github.com/xxai-art/doc#readme"><img alt="I18N" src="https://cdn.jsdelivr.net/gh/wactax/img/t.svg"/></a>　<a href="https://groups.google.com/u/0/g/xxai-art"><img alt="Google Groups" src="https://cdn.jsdelivr.net/gh/wactax/img/g-groups.svg"/></a></p>
 
-# xxAI.adwinni
+Wɔhyɛ nyansa sɛ di kan instɔl nodejs, [direnv](https://direnv.net) , [bun](https://github.com/oven-sh/bun) , na afei `direnv allow` bere a woahyɛn daerekta no mu akyi ( [.envrc no](https://github.com/xxai-art/doc/blob/main/.envrc) bɛyɛ adwuma ankasa bere a woahyɛn daerekta no mu akyi).
 
-Wɛbsaet koodu no fã bi yɛ open source, yɛma wo akwaaba sɛ ɛbɛboa ma nkyerɛase no ayɛ papa.
+Nea ɛkyerɛ ne sɛ: China kasa mu nkyerɛase kɔ Japan, Korea, Borɔfo, Borɔfo nkyerɛase mu kɔ kasa afoforo nyinaa mu. Sɛ wopɛ sɛ woboa China ne Borɔfo kasa nkutoo a, wubetumi akyerɛw `zh: en` kɛkɛ.
 
-## anim-awieɛ koodu
+Nea ɛkyerɛ ne sɛ: China kasa mu nkyerɛase kɔ Japan, Korea, Borɔfo, Borɔfo nkyerɛase mu kɔ kasa afoforo nyinaa mu. Sɛ wopɛ sɛ woboa China ne Borɔfo kasa nkutoo a, wubetumi akyerɛw `zh: en` kɛkɛ.
 
 * [anim-awieɛ koodu](https://github.com/xxai-art/web)
 * [Kasa packs ma site no nyinaa](https://github.com/xxai-art/web/tree/main/i18n)
@@ -31,15 +31,15 @@ Fa nnwuma 3 a edidi so yi si hɔ
 
 ### Nwoma Nkyerɛaseɛ Automation Akwankyerɛ
 
-Hwɛ adekorabea [xxai-art/doc](https://github.com/xxai-art/doc)
+Hwɛ koodu akorae [xxai-art/doc](https://github.com/xxai-art/doc)
 
-Wɔhyɛ nyansa sɛ wobɛdi kan ahyɛ nodejs, [direnv](https://direnv.net) ne [bun](https://github.com/oven-sh/bun) , na afei woayɛ `direnv allow` bere a woahyɛn directory no mu awie no.
+Wɔhyɛ nyansa sɛ di kan instɔl nodejs, [direnv](https://direnv.net) , [bun](https://github.com/oven-sh/bun) , na afei `direnv allow` bere a woahyɛn daerekta no mu akyi ( [.envrc no](https://github.com/xxai-art/doc/blob/main/.envrc) bɛyɛ adwuma ankasa bere a woahyɛn daerekta no mu akyi).
 
-Sɛnea ɛbɛyɛ a mɛkwati adekoradan akɛse dodo a wɔakyerɛ ase akɔ kasa ɔhaha pii mu no, meyɛɛ mmara adekoradan a ɛyɛ soronko maa kasa biara na meyɛɛ ahyehyɛde bi a wɔde besie adekoradan yi
+Sɛnea ɛbɛyɛ a mɛkwati code base kɛse a wɔakyerɛ ase akɔ kasa ɔhaha pii mu no, meyɛɛ code base a ɛyɛ soronko maa kasa biara na meyɛɛ ahyehyɛde bi a wɔde code base no besie
 
-Sɛ wo hyehyɛ atwa yɛn ho ahyia nsakraeɛ `GITHUB_ACCESS_TOKEN` na afei wotu [create.github.coffee](https://github.com/xxai-art/doc/blob/main/create.github.coffee) a, ɛbɛbɔ adekoradan no ara.
+Sɛ wo hyehyɛ atwa yɛn ho ahyia nsakraeɛ `GITHUB_ACCESS_TOKEN` na afei wo tu [create.github.coffee](https://github.com/xxai-art/doc/blob/main/create.github.coffee) a, ɛbɛbɔ koodu akoraeɛ no ara.
 
-Nokwarem no, wubetumi de ahyɛ adekoradan mu nso.
+Nokwarem no, wubetumi nso de ahyɛ code base mu.
 
 Nkyerɛase script nkyerɛkyerɛmu [run.sh](https://github.com/xxai-art/doc/blob/main/run.sh)
 
@@ -71,4 +71,8 @@ Wɔde Google API di dwuma ma nkyerɛase a wontua hwee. Sɛ wo ntumi nkɔ Google 
 export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
 ```
 
-Nkyerɛaseɛ script no bɛma nkyerɛaseɛ cache wɔ `.i18n` directory mu, yɛsrɛ wo hwɛ no ne `git status` na fa ka code repository no ho na woakwati nkyerɛaseɛ mpɛn pii.
+Nkyerɛaseɛ script no bɛma wɔakyerɛ aseɛ cache wɔ `.i18n` directory mu, yɛsrɛ wo hwɛ no wɔ `git status` na fa ka code repository no ho na woakwati nkyerɛaseɛ mpɛn pii.
+
+Yɛsrɛ wo, tu `bunx i18n` bere biara a wobɛsesa nkyerɛase no de ayɛ cache no foforo.
+
+Sɛ wɔsesa mfitiase nkyerɛwee no ne nkyerɛase no bere koro mu a, cache no bɛyɛ basaa, enti sɛ wopɛ sɛ wosakra a, wubetumi asesa biako pɛ, na afei woatu `bunx i18n` de ayɛ cache no foforo.
