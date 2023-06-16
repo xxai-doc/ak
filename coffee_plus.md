@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , fa nneɛma bi ka ho a egyina coffeescript syntax so, hwɛ [coffee_plus](./coffee_plus.md) .
 
-* declare variable a ɛsakra no
+## declare variable a ɛsakra no
 
 ```
 + var1, var2
 ```
 
-* mpaemuka ho nkyerɛwde
+## mpaemuka ho nkyerɛwde
 
 `:$` yɛ nea wɔde bedi dwuma ne [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ntɛm a wɔde ba amannɔne
+## ntɛm a wɔde ba amannɔne
 
 ```
 > zx/globals:
