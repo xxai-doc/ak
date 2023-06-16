@@ -17,14 +17,14 @@ Anim-awieɛ dwumadie kasa ne [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus)
 
 Fa nnwuma 3 a edidi so yi si hɔ
 
-### [@w5/mdt na ɛwɔ hɔ](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt na ɛwɔ hɔ](https://www.npmjs.com/package/@w5/mdt)
 
-Markdown template no, a ɛwɔ akyigyina `.mdt` , betumi akyerɛ abɔnten fael a ɛwɔ syntax a ɛte sɛ `<+ ./coffee_plus/import.js>` .
+  Suffix no yɛ `.mdt` , wobɛtumi de syntax a ɛte sɛ `<+ ./coffee_plus/import.js>` adi dwuma de akyerɛ abɔnten fael, na wode subffix `.md` ayɛ markdown.
 
-[@w5/trmd na ɛwɔ hɔ](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd na ɛwɔ hɔ](https://www.npmjs.com/package/@w5/trmd)
 
-Markdown nkyerɛaseɛ renkyerɛ koodu ne link ase, na ɛbɛkora kasamu a wɔakyerɛ aseɛ no so. Sɛ wɔayɛ nsakrae wɔ nkyerɛase no mu nanso wɔansakra mfitiase nkyerɛwee no a, sɛ wosan yɛ no bio a, ɛrenkyerɛw nkyerɛase no mu nsakrae no so.
+  Markdown nkyerɛaseɛ renkyerɛ koodu ne link ase, na ɛbɛkora kasamu a wɔakyerɛ aseɛ no so. Sɛ wɔayɛ nsakrae wɔ nkyerɛase no mu nanso wɔansakra mfitiase nkyerɛwee no a, sɛ wosan yɛ no bio a, ɛrenkyerɛw nkyerɛase no mu nsakrae no so.
 
-[@w5/i18n na ɛwɔ hɔ](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n na ɛwɔ hɔ](https://www.npmjs.com/package/@w5/i18n)
 
-Kasa fael a wɔde kyerɛ wɛbsaet ahorow `yaml` ayɛ ase.
+  Kasa fael a wɔde kyerɛ wɛbsaet ahorow `yaml` ayɛ ase.
